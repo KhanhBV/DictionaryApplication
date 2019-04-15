@@ -1,0 +1,21 @@
+﻿car:xe ô tô, xe con
+cat:con mèo
+computer:máy tính
+desire:đốt cháy
+gold:vàng
+in front of:trước
+know:biết
+mouse:con chuột
+previously:trước
+run:chạy
+và:with, and
+weapons:vũ khí
+with:cùng
+﻿ancient:cổ xưa
+﻿and:và
+﻿animal:động vật
+﻿arms:vũ khí
+﻿be on fire:đốt cháy
+﻿before:trước
+﻿burn:đốt cháy
+﻿who:ai

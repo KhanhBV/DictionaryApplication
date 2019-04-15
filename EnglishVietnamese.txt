@@ -1,0 +1,21 @@
+ancient:cổ xưa
+and:và, cùng
+animal:động vật
+arms:vũ khí
+be on fire:đốt cháy
+before:trước
+burn:đốt cháy
+car:xe ô tô
+cat:con mèo, miu miu
+computer:máy tính
+desire:đốt cháy
+gold:vàng
+in front of:trước
+know:biết
+mouse:con chuột
+previously:trước
+run:chạy, chạy nhanh
+weapons:vũ khí
+with:cùng
+﻿who:ai
+con mèo:cat, meo meo
